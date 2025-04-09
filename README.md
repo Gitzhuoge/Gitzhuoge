@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gitzhuoge
 - 👀 I’m interested in PINN
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning RAD of PINN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :3096900281@qq.com
 - 😄 Pronouns: ...
